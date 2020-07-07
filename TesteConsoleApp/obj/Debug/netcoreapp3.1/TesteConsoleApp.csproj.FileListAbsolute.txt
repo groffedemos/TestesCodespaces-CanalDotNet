@@ -1,0 +1,11 @@
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/bin/Debug/netcoreapp3.1/TesteConsoleApp
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/bin/Debug/netcoreapp3.1/TesteConsoleApp.deps.json
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/bin/Debug/netcoreapp3.1/TesteConsoleApp.runtimeconfig.json
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/bin/Debug/netcoreapp3.1/TesteConsoleApp.runtimeconfig.dev.json
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/bin/Debug/netcoreapp3.1/TesteConsoleApp.dll
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/bin/Debug/netcoreapp3.1/TesteConsoleApp.pdb
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/obj/Debug/netcoreapp3.1/TesteConsoleApp.csprojAssemblyReference.cache
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/obj/Debug/netcoreapp3.1/TesteConsoleApp.AssemblyInfoInputs.cache
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/obj/Debug/netcoreapp3.1/TesteConsoleApp.AssemblyInfo.cs
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/obj/Debug/netcoreapp3.1/TesteConsoleApp.dll
+/home/vsonline/workspace/TestesCodespaces-CanalDotNet/TesteConsoleApp/obj/Debug/netcoreapp3.1/TesteConsoleApp.pdb

@@ -9,6 +9,7 @@ namespace TesteConsoleApp
             Console.WriteLine("Renato Groffe esteve aqui...");
             Console.WriteLine("Olá a todos!");
             Console.WriteLine("Finalizando a aplicação...");
+            Console.WriteLine("Simulando queda...");
         }
     }
 }
